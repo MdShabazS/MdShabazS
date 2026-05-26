@@ -94,16 +94,17 @@ const shabaz = {
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdShabazS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=issues&card_width=420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdShabazS&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/MdShabazS?style=for-the-badge&logo=github&color=58A6FF&labelColor=1F2937"/>
+  <img src="https://img.shields.io/github/stars/MdShabazS?affiliations=OWNER&style=for-the-badge&logo=github&color=FFD700&labelColor=1F2937"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-13-2EA043?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937"/>
+  <img src="https://img.shields.io/github/last-commit/MdShabazS/MdShabazS?style=for-the-badge&logo=git&logoColor=white&color=F05032&labelColor=1F2937&label=last%20active"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShabazS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MdShabazS&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdShabazS&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ---
