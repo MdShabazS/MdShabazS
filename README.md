@@ -65,22 +65,32 @@ const shabaz = {
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/MdShabazS/Automotive-Body-Control-Module-ESP32">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShabazS&repo=Automotive-Body-Control-Module-ESP32&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-  <a href="https://github.com/MdShabazS/NexCast_Pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShabazS&repo=NexCast_Pro&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/MdShabazS/visionpay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShabazS&repo=visionpay&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-  <a href="https://github.com/MdShabazS/Smart-Wellness-Desk-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShabazS&repo=Smart-Wellness-Desk-Assistant&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/MdShabazS/Automotive-Body-Control-Module-ESP32">Automotive BCM &mdash; ESP32</a></h3>
+      <p><sub><code>ESP32</code> · <code>Embedded C/C++</code> · <code>State Machines</code></sub></p>
+      <p>Production-style Body Control Module: 3-state ignition machine, brake-light gating, indicators, hazard mode, OLED instrument cluster, fully non-blocking <code>millis()</code> event loop.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ <a href="https://github.com/MdShabazS/NexCast_Pro">NexCast Pro</a></h3>
+      <p><sub><code>Python</code> · <code>Flask</code> · <code>OpenCV</code> · <code>Tesseract</code> · <code>pygame</code></sub></p>
+      <p>Multi-projector floor-plan visualization. OpenCV pipeline (Hough wall + door detection) + OCR, calibrated 1920×1080 zones across <b>1–12 projectors</b>. Built @ iHelp Robotics.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ <a href="https://github.com/MdShabazS/visionpay">VisionPay</a></h3>
+      <p><sub><code>TensorFlow</code> · <code>MobileNetV2</code> · <code>TFLite</code> · <code>OpenCV</code></sub></p>
+      <p>Real-time Indian-currency detector for the visually impaired. Fine-tuned MobileNetV2 (~93% val acc), TFLite-quantized for ~30 FPS CPU inference, offline TTS. Built @ iHelp Robotics.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🪑 <a href="https://github.com/MdShabazS/Smart-Wellness-Desk-Assistant">Smart Wellness Desk Assistant</a></h3>
+      <p><sub><code>STM32</code> · <code>HAL</code> · <code>Embedded C</code> · <code>I²C</code></sub></p>
+      <p>STM32 Nucleo-L476RG embedded wellness monitor: ultrasonic posture sensing, ambient light/temperature, OLED status display, buzzer alerts. Built in CubeIDE with HAL drivers.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
