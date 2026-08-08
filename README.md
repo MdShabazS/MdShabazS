@@ -1,6 +1,6 @@
 <!-- Profile banner -->
 <p align="center">
-  <img src="./assets/profile-orbit.svg" alt="Mohammed Shabaz S - software and embedded engineering profile banner" width="100%"/>
+  <img src="./assets/profile-banner.png" alt="Mohammed Shabaz S - software and embedded engineering profile banner" width="100%"/>
 </p>
 
 <p align="center">
