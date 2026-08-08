@@ -1,15 +1,23 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">3D engineering workspace illustration</title>
-  <desc id="desc">An isometric-style profile banner with software, embedded systems, robotics, and computer vision elements.</desc>
+  <title id="title">Mohammed Shabaz S profile banner</title>
+  <desc id="desc">Professional engineering banner for software development, embedded systems, and applied computer vision.</desc>
   <defs>
-    <linearGradient id="bg" x1="80" y1="30" x2="1120" y2="330" gradientUnits="userSpaceOnUse">
+    <linearGradient id="background" x1="64" y1="28" x2="1138" y2="332" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07111F"/>
-      <stop offset="0.42" stop-color="#0E2332"/>
-      <stop offset="0.72" stop-color="#102528"/>
-      <stop offset="1" stop-color="#17151F"/>
+      <stop offset="0.44" stop-color="#0B2230"/>
+      <stop offset="0.74" stop-color="#102629"/>
+      <stop offset="1" stop-color="#16151D"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#243149"/>
+      <stop offset="1" stop-color="#111827"/>
     </linearGradient>
     <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#7DD3FC"/>
+      <stop stop-color="#93C5FD"/>
       <stop offset="1" stop-color="#22D3EE"/>
     </linearGradient>
     <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
@@ -20,109 +28,97 @@
       <stop stop-color="#FDE68A"/>
       <stop offset="1" stop-color="#F59E0B"/>
     </linearGradient>
-    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#FDA4AF"/>
-      <stop offset="1" stop-color="#FB7185"/>
-    </linearGradient>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.45"/>
+    <filter id="shadow" x="-20%" y="-25%" width="140%" height="160%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.48"/>
     </filter>
-    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
       <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" stroke="#94A3B8" stroke-opacity="0.08"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#94A3B8" stroke-opacity="0.07"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#grid)"/>
+  <path d="M96 265C227 183 347 233 473 152C605 67 746 91 866 164C974 230 1037 197 1112 128" stroke="#38BDF8" stroke-opacity="0.18" stroke-width="2"/>
+  <path d="M148 118C305 149 397 84 538 132C681 181 708 275 898 237C985 219 1054 235 1118 268" stroke="#34D399" stroke-opacity="0.13" stroke-width="2"/>
+  <ellipse cx="650" cy="300" rx="382" ry="35" fill="#020617" opacity="0.34"/>
 
-  <ellipse cx="600" cy="296" rx="390" ry="34" fill="#020617" opacity="0.35"/>
-  <path d="M135 262C262 182 326 222 450 144C586 59 713 98 824 158C917 209 980 187 1065 116" stroke="#38BDF8" stroke-opacity="0.17" stroke-width="2"/>
-  <path d="M166 108C314 145 386 82 520 126C674 177 703 276 894 235C978 217 1048 237 1098 267" stroke="#34D399" stroke-opacity="0.15" stroke-width="2"/>
-
-  <g filter="url(#softShadow)">
-    <path d="M448 210L598 128L756 209L600 300L448 210Z" fill="#152033"/>
-    <path d="M448 210L600 300V325L448 235V210Z" fill="#0B1220"/>
-    <path d="M756 209L600 300V325L756 235V209Z" fill="#111827"/>
-    <path d="M448 210L598 128L756 209L600 300L448 210Z" stroke="#60A5FA" stroke-opacity="0.35"/>
+  <g filter="url(#shadow)">
+    <path d="M492 208L638 128L790 208L640 296L492 208Z" fill="url(#surface)"/>
+    <path d="M492 208L640 296V322L492 234V208Z" fill="#0B1220"/>
+    <path d="M790 208L640 296V322L790 234V208Z" fill="#101827"/>
+    <path d="M492 208L638 128L790 208L640 296L492 208Z" stroke="#60A5FA" stroke-opacity="0.36"/>
   </g>
 
-  <g filter="url(#softShadow)">
-    <path d="M522 164L624 108L724 164L623 223L522 164Z" fill="#1E293B"/>
-    <path d="M522 164L623 223V246L522 187V164Z" fill="#0F172A"/>
-    <path d="M724 164L623 223V246L724 187V164Z" fill="#111827"/>
-    <path d="M547 164L624 122L699 164L623 208L547 164Z" fill="#020617"/>
-    <path d="M569 163L625 132L678 163L623 195L569 163Z" fill="url(#cyan)" opacity="0.9"/>
-    <path d="M593 176L624 159L655 176L624 193L593 176Z" fill="#E0F2FE" opacity="0.55"/>
+  <g filter="url(#shadow)">
+    <path d="M558 160L652 109L746 160L652 215L558 160Z" fill="#1C2638"/>
+    <path d="M558 160L652 215V237L558 182V160Z" fill="#0F172A"/>
+    <path d="M746 160L652 215V237L746 182V160Z" fill="#111827"/>
+    <path d="M586 160L652 124L718 160L652 199L586 160Z" fill="#020617"/>
+    <path d="M607 160L652 135L697 160L652 186L607 160Z" fill="url(#cyan)"/>
+    <path d="M625 169L652 154L679 169L652 184L625 169Z" fill="#E0F2FE" opacity="0.48"/>
   </g>
 
-  <g filter="url(#softShadow)">
-    <path d="M316 223L402 176L489 224L403 274L316 223Z" fill="#1F2937"/>
-    <path d="M316 223L403 274V297L316 246V223Z" fill="#111827"/>
-    <path d="M489 224L403 274V297L489 247V224Z" fill="#0F172A"/>
-    <rect x="360" y="192" width="86" height="56" rx="8" transform="rotate(29 360 192)" fill="#0B1120"/>
-    <path d="M368 204L405 184L451 211L414 232L368 204Z" fill="url(#green)" opacity="0.9"/>
-    <path d="M376 211L389 204L404 213L391 220L376 211Z" fill="#ECFDF5" opacity="0.65"/>
+  <g filter="url(#shadow)">
+    <path d="M354 224L436 179L518 224L436 272L354 224Z" fill="#202A3A"/>
+    <path d="M354 224L436 272V294L354 246V224Z" fill="#101827"/>
+    <path d="M518 224L436 272V294L518 246V224Z" fill="#0F172A"/>
+    <path d="M394 215L438 191L482 215L438 240L394 215Z" fill="url(#green)"/>
+    <path d="M384 226L438 257L491 226" stroke="#93C5FD" stroke-opacity="0.28" stroke-width="2"/>
   </g>
 
-  <g filter="url(#softShadow)">
-    <path d="M758 228L840 182L922 228L840 276L758 228Z" fill="#22212C"/>
-    <path d="M758 228L840 276V298L758 250V228Z" fill="#111827"/>
-    <path d="M922 228L840 276V298L922 250V228Z" fill="#171923"/>
-    <circle cx="839" cy="225" r="28" fill="#020617"/>
-    <circle cx="839" cy="225" r="21" fill="none" stroke="url(#amber)" stroke-width="5"/>
-    <circle cx="839" cy="225" r="8" fill="#FDE68A"/>
-    <path d="M822 209L856 242M856 209L822 242" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+  <g filter="url(#shadow)">
+    <path d="M802 226L882 181L964 226L882 273L802 226Z" fill="#221F2B"/>
+    <path d="M802 226L882 273V295L802 248V226Z" fill="#111827"/>
+    <path d="M964 226L882 273V295L964 248V226Z" fill="#171923"/>
+    <circle cx="882" cy="225" r="28" fill="#020617"/>
+    <circle cx="882" cy="225" r="20" fill="none" stroke="url(#amber)" stroke-width="5"/>
+    <circle cx="882" cy="225" r="8" fill="#FDE68A"/>
+    <path d="M866 209L898 241M898 209L866 241" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
   </g>
 
-  <g filter="url(#softShadow)">
-    <path d="M742 110L812 72L883 111L812 153L742 110Z" fill="#1E293B"/>
-    <path d="M742 110L812 153V172L742 129V110Z" fill="#0F172A"/>
-    <path d="M883 111L812 153V172L883 130V111Z" fill="#101827"/>
-    <rect x="791" y="91" width="43" height="43" rx="8" transform="rotate(30 791 91)" fill="url(#pink)"/>
-    <path d="M789 113L811 101L836 115L813 128L789 113Z" fill="#FFE4E6" opacity="0.55"/>
+  <g filter="url(#shadow)">
+    <path d="M794 104L862 67L932 105L862 146L794 104Z" fill="#20283A"/>
+    <path d="M794 104L862 146V165L794 123V104Z" fill="#111827"/>
+    <path d="M932 105L862 146V165L932 124V105Z" fill="#151927"/>
+    <path d="M834 104L862 89L890 104L862 120L834 104Z" fill="#FDA4AF"/>
+    <path d="M858 88L895 109L876 120L839 99L858 88Z" fill="#FB7185"/>
   </g>
 
-  <g filter="url(#softShadow)">
-    <path d="M253 120L329 78L405 120L329 164L253 120Z" fill="#1E293B"/>
-    <path d="M253 120L329 164V185L253 141V120Z" fill="#111827"/>
-    <path d="M405 120L329 164V185L405 141V120Z" fill="#0F172A"/>
-    <path d="M287 111L329 88L371 111L329 135L287 111Z" fill="#020617"/>
-    <path d="M298 111L329 94L360 111L329 128L298 111Z" fill="url(#cyan)" opacity="0.9"/>
-    <path d="M272 141L312 164M385 132L345 156" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="2"/>
-  </g>
-
-  <g filter="url(#glow)" opacity="0.95">
-    <circle cx="207" cy="91" r="5" fill="#38BDF8"/>
-    <circle cx="466" cy="78" r="4" fill="#34D399"/>
-    <circle cx="1002" cy="86" r="5" fill="#F59E0B"/>
-    <circle cx="1010" cy="254" r="4" fill="#FB7185"/>
-    <circle cx="164" cy="231" r="4" fill="#A78BFA"/>
+  <g filter="url(#glow)">
+    <circle cx="178" cy="233" r="4" fill="#A78BFA"/>
+    <circle cx="478" cy="78" r="4" fill="#34D399"/>
+    <circle cx="1030" cy="86" r="5" fill="#F59E0B"/>
+    <circle cx="1040" cy="252" r="4" fill="#FB7185"/>
   </g>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <text x="78" y="76" fill="#E5E7EB" font-size="28" font-weight="800">Mohammed Shabaz S</text>
-    <text x="78" y="108" fill="#93C5FD" font-size="15" font-weight="600">Software Developer Track + Embedded Engineering</text>
-    <text x="78" y="132" fill="#CBD5E1" font-size="13">ECE student at BITM · building practical systems across apps, firmware, and vision</text>
-    <g transform="translate(78 160)">
-      <rect width="126" height="30" rx="15" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.32"/>
-      <text x="18" y="20" fill="#BAE6FD" font-size="12" font-weight="700">Java · DSA</text>
-      <rect x="138" width="142" height="30" rx="15" fill="#0F172A" stroke="#34D399" stroke-opacity="0.32"/>
-      <text x="156" y="20" fill="#BBF7D0" font-size="12" font-weight="700">Embedded C · STM32</text>
-      <rect x="292" width="130" height="30" rx="15" fill="#0F172A" stroke="#F59E0B" stroke-opacity="0.32"/>
-      <text x="310" y="20" fill="#FDE68A" font-size="12" font-weight="700">OpenCV · TFLite</text>
+    <text x="78" y="76" fill="#F8FAFC" font-size="30" font-weight="800">Mohammed Shabaz S</text>
+    <text x="78" y="109" fill="#7DD3FC" font-size="16" font-weight="700">Software Development · Embedded Systems · Applied Vision</text>
+    <text x="78" y="135" fill="#CBD5E1" font-size="13.5">ECE student at BITM · building reliable projects across apps, firmware, and computer vision</text>
+
+    <g transform="translate(78 164)">
+      <rect width="158" height="32" rx="16" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.38"/>
+      <text x="22" y="21" fill="#BAE6FD" font-size="12" font-weight="700">Software Track</text>
+      <rect x="170" width="164" height="32" rx="16" fill="#0F172A" stroke="#34D399" stroke-opacity="0.38"/>
+      <text x="192" y="21" fill="#BBF7D0" font-size="12" font-weight="700">Embedded Track</text>
+      <rect x="346" width="142" height="32" rx="16" fill="#0F172A" stroke="#F59E0B" stroke-opacity="0.38"/>
+      <text x="368" y="21" fill="#FDE68A" font-size="12" font-weight="700">Vision Systems</text>
     </g>
   </g>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" text-anchor="end">
-    <text x="1124" y="82" fill="#E5E7EB" font-size="18" font-weight="800">Portfolio Focus</text>
-    <text x="1124" y="110" fill="#CBD5E1" font-size="13">AEGIS · MITRA · VisionPay</text>
-    <text x="1124" y="132" fill="#CBD5E1" font-size="13">NexCast Pro · Automotive BCM</text>
+    <text x="1122" y="82" fill="#F8FAFC" font-size="18" font-weight="800">Selected Work</text>
+    <text x="1122" y="112" fill="#CBD5E1" font-size="13">AEGIS · MITRA · VisionPay</text>
+    <text x="1122" y="136" fill="#CBD5E1" font-size="13">NexCast Pro · Automotive BCM</text>
+    <path d="M976 154H1124" stroke="#94A3B8" stroke-opacity="0.18"/>
+    <text x="1122" y="184" fill="#93C5FD" font-size="12" font-weight="700">B.E. ECE · BITM</text>
+    <text x="1122" y="207" fill="#CBD5E1" font-size="12">Expected graduation: 2027</text>
   </g>
 </svg>
