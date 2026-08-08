@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MdShabazS">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&lines=B.E.+ECE+student+%40+BITM+%7C+Expected+2027;Software+Developer+track+with+Embedded+Engineering+depth;Java+%2B+DSA+%2B+Problem+Solving+%7C+C%2FC%2B%2B+%2B+Embedded+C;Building+practical+systems+across+apps%2C+firmware%2C+and+vision" alt="Typing intro"/>
-  </a>
+  <strong>Software Development</strong> · <strong>Embedded Systems</strong> · <strong>Applied Computer Vision</strong>
 </p>
 
 <p align="center">
@@ -20,29 +18,22 @@
 
 ---
 
-## 👋 About
+## Professional Snapshot
 
-```ts
-const shabaz = {
-  name: "Mohammed Shabaz S",
-  current: "B.E. Electronics & Communication Engineering, BITM",
-  semester: "7th Semester",
-  expectedGraduation: 2027,
-  targetRoles: [
-    "Software Engineer / Software Developer",
-    "Embedded Engineer"
-  ],
-  focusAreas: ["Java", "DSA", "SQL", "DBMS", "OS", "Computer Networks"],
-  coreStrengths: ["C", "C++", "Embedded C", "Python", "practical project building"],
-  learningNow: ["Java", "DSA", "DBMS", "Operating Systems", "SQL"],
-};
-```
+| Area | Details |
+|---|---|
+| Current | B.E. Electronics & Communication Engineering, BITM · 7th Semester |
+| Graduation | Expected 2027 · CGPA 8.38 |
+| Primary Track | Software Engineer / Software Developer |
+| Parallel Track | Embedded Engineer |
+| Current Focus | Java, DSA, SQL, DBMS, Operating Systems, Computer Networks |
+| Core Strengths | C, C++, Embedded C, Python, practical project building |
 
 I am focused on software development while continuing to build embedded and application-side systems. My portfolio includes Android app work, firmware projects, computer-vision prototypes, and architecture design for emergency-response workflows.
 
 ---
 
-## 🧭 Current Direction
+## Direction
 
 <table>
   <tr>
@@ -63,7 +54,7 @@ I am focused on software development while continuing to build embedded and appl
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -88,7 +79,7 @@ I am focused on software development while continuing to build embedded and appl
 
 ---
 
-## 🚀 Portfolio Highlights
+## Portfolio Highlights
 
 <table>
   <tr>
@@ -135,7 +126,7 @@ I am focused on software development while continuing to build embedded and appl
 
 ---
 
-## 🎓 Experience, Leadership & Recognition
+## Experience, Leadership & Recognition
 
 <table>
   <tr>
@@ -162,7 +153,7 @@ I am focused on software development while continuing to build embedded and appl
 
 ---
 
-## 📊 GitHub Snapshot
+## GitHub Snapshot
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/MdShabazS?style=for-the-badge&logo=github&color=38BDF8&labelColor=111827" alt="GitHub followers"/>
@@ -185,7 +176,7 @@ I am focused on software development while continuing to build embedded and appl
 
 ---
 
-## 📌 Profile Notes
+## Profile Notes
 
 - I keep software development as my primary track while continuing embedded engineering in parallel.
 - I describe AI/ML as project-level exposure, not as a finalized specialization.
