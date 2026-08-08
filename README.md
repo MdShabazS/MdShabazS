@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/MdShabazS">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&lines=B.E.+ECE+student+%40+BITM+%7C+Expected+2027;Software+Developer+track+with+Embedded+Engineering+depth;Java+%2B+DSA+for+placements+%7C+C%2FC%2B%2B+%2B+Embedded+C;Building+practical+systems+across+apps%2C+firmware%2C+and+vision" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&lines=B.E.+ECE+student+%40+BITM+%7C+Expected+2027;Software+Developer+track+with+Embedded+Engineering+depth;Java+%2B+DSA+%2B+Problem+Solving+%7C+C%2FC%2B%2B+%2B+Embedded+C;Building+practical+systems+across+apps%2C+firmware%2C+and+vision" alt="Typing intro"/>
   </a>
 </p>
 
@@ -32,13 +32,13 @@ const shabaz = {
     "Software Engineer / Software Developer",
     "Embedded Engineer"
   ],
-  placementFocus: ["Java", "DSA", "SQL", "DBMS", "OS", "CN", "Aptitude"],
+  focusAreas: ["Java", "DSA", "SQL", "DBMS", "OS", "Computer Networks"],
   coreStrengths: ["C", "C++", "Embedded C", "Python", "practical project building"],
   learningNow: ["Java", "DSA", "DBMS", "Operating Systems", "SQL"],
 };
 ```
 
-I am preparing for software placements while continuing to build embedded and application-side systems. My portfolio includes Android app work, firmware projects, computer-vision prototypes, and architecture design for emergency-response workflows.
+I am focused on software development while continuing to build embedded and application-side systems. My portfolio includes Android app work, firmware projects, computer-vision prototypes, and architecture design for emergency-response workflows.
 
 ---
 
@@ -48,7 +48,7 @@ I am preparing for software placements while continuing to build embedded and ap
   <tr>
     <td width="33%" valign="top">
       <h3>Software Track</h3>
-      <p>Primary placement-preparation focus: Java, DSA, SQL, DBMS, OS, Computer Networks, aptitude, Git/GitHub, and project explanation.</p>
+      <p>Current focus: Java, DSA, SQL, DBMS, Operating Systems, Computer Networks, Git/GitHub, and clean project explanation.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Embedded Track</h3>
@@ -187,7 +187,7 @@ I am preparing for software placements while continuing to build embedded and ap
 
 ## 📌 Profile Notes
 
-- I keep software placement preparation as my first priority while continuing embedded engineering in parallel.
+- I keep software development as my primary track while continuing embedded engineering in parallel.
 - I describe AI/ML as project-level exposure, not as a finalized specialization.
 - I separate team projects, internship work, and individual projects clearly.
 - I avoid claiming planned roadmap items as completed work.
