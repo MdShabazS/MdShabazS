@@ -171,8 +171,12 @@ I am preparing for software placements while continuing to build embedded and ap
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MdShabazS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShabazS&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdShabazS&theme=tokyonight" alt="GitHub profile summary"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdShabazS&theme=tokyonight" alt="Repos per language"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdShabazS&theme=tokyonight" alt="Most committed languages"/>
 </p>
 
 <p align="center">
