@@ -101,8 +101,8 @@ I am preparing for software placements while continuing to build embedded and ap
     <td width="50%" valign="top">
       <h3>MITRA</h3>
       <p><b>iHelp Robotics internship project</b></p>
-      <p>Assistive vision and navigation system for blind and low-vision users. Confirmed contribution: Android app development, RTSP stream handling, phone-camera fallback, testing/QA, navigation module, TTS, and app-side interaction workflows.</p>
-      <p><sub><b>Boundary:</b> backend/model development belonged to another team.</sub></p>
+      <p>Assistive technology project focused on improving guidance and accessibility for blind and low-vision users. I contributed to the Android/app-side experience while the broader system continues under development.</p>
+      <p><sub><b>Note:</b> keeping implementation details high-level while the project is still active.</sub></p>
     </td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ I am preparing for software placements while continuing to build embedded and ap
         <li>iHelp Robotics Private Limited - remote internship, MITRA project</li>
         <li>IEEE EMBS Pune Section - one-month internship, Skin Disease Classification</li>
         <li>NexCast Pro - individual internship project</li>
-        <li>Pega National Internship Program - currently participating, 5 months</li>
+        <li>Pega National Internship Program - currently participating</li>
       </ul>
     </td>
     <td width="50%" valign="top">
